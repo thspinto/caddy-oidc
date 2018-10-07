@@ -1,0 +1,6 @@
+oidc {
+    issuer http://localhost:5556
+    client-id example-app
+    client-secret ZXhhbXBsZS1hcHAtc2VjcmV0
+    redirect-url http://127.0.0.1:5555/callback
+}

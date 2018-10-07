@@ -24,6 +24,6 @@ Features:
 | client-id                   | string      |          | OIDC client id                            |
 | client-secret               | string      |          | OIDC client id                            |
 | redirect-url                | string      |          | Authentication callback URL               |
-| scopes                      | string      |          | Requested scopes                          |
+| scopes                      | string      |          | Optional Requested scopes                 |
 
 ## Setup
