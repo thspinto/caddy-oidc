@@ -3,7 +3,7 @@ package oidc
 import (
 	log "github.com/sirupsen/logrus"
 
-	"github.com/mholt/caddy"
+	"github.com/caddyserver/caddy"
 )
 
 // Config stores the oidc middleware configurations
