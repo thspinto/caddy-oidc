@@ -1,5 +1,5 @@
 # caddy-oidc
-(OpenID Connect)[https://openid.net/connect/] plugin for Caddy Server.
+[OpenID Connect](https://openid.net/connect/) plugin for Caddy Server.
 
 This middleware providades authentication against an OIDC provider.
 
